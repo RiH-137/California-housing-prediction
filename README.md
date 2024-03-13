@@ -1,2 +1,4 @@
 # California-housing-prediction
-Linear Regression with ANN Implementation
+Regression with ANN Implementation
+
+R2-Score
